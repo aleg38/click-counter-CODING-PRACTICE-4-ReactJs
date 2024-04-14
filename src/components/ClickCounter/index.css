@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 500;
+  color: #2d3a35;
+}
+.description {
+  font-size: 15px;
+  font-weight: 400;
+  color: #2d3a35;
+}
+.count-styling {
+  color: #c20a72;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 6px;
+  height: 30px;
+  width: 100px;
+  border-width: 0px;
+  font-weight: 400;
+  font-size: 13px;
+  cursor: pointer;
+}
